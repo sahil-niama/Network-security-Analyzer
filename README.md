@@ -18,6 +18,7 @@ This script extracts valuable information such as top ports, URLs, and detects t
 
 2- Run the script:
    python network_security_analyzer.py
-##EXAMPLE OUTPUT 
+
+## EXAMPLE OUTPUT 
 <img alt="OUTPUT" src="https://github.com/user-attachments/assets/6b4c208a-b895-4a62-814c-31ebfc81a459" />
 
